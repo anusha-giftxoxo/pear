@@ -1,0 +1,7 @@
+.channels/
+.depdb
+.depdblock 
+.filemap
+.lock
+.registry/
+.depdblock
